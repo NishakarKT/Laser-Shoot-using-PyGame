@@ -1,0 +1,4 @@
+W => Shoot Up
+A => Shoot Left
+X => Shoot Down
+D => Shoot Right
